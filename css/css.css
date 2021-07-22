@@ -1,0 +1,46 @@
+.imagem{
+width:"64px" ;
+}
+
+  .flex-container2 {
+    display: flex;
+    height: 150px;
+    align-items: center;
+    margin: 200px;
+  }
+  .p-30{
+    padding: 80px;
+}
+.tm-social{
+  width: 20px;
+  height: 20px; 
+  padding: 30px;
+}
+
+.dimensionamento{
+    width: 300px;
+    height: 500px;
+}
+.center{
+  font-size: 22px; 
+  text-align: center; 
+}
+
+.margem{
+  margin-left: 100px;
+}
+
+.texto{
+  font-size: 40px;
+  text-align: center;
+}
+
+.corpo{
+  width: 960px;
+  margin:auto;
+}
+
+.teste{
+  text-align: center;
+  margin-top: 100px;
+}
